@@ -1,0 +1,4 @@
+Some thoughts on the power supply:
+
+1. Australian Voltage is 230 Vrms +10%, -6% @ 50Hz
+2. 
